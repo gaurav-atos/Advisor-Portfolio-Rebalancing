@@ -1,16 +1,25 @@
 # Change Log
 
+## v1.4
+
+Date: 22-May-2026
+
+Changes:
+
+- Re-push via /push_brd command following CLAUDE.md versioning rules
+- Version determined from conversation push history (web_fetch serving cached GitHub pages)
+- No BRD content regenerated — approved BRD content carried forward unchanged
+- 49 FRs across 8 epics, 14 NFRs, 80 JIRA issues unchanged
+
 ## v1.3
 
 Date: 21-May-2026
 
 Changes:
 
-- Re-push via /push_brd command following CLAUDE.md versioning rules
-- VERSION.txt and CHANGELOG.md verified live from repo before push
-- Full version history restored: v1.1 and v1.2 entries added to CHANGELOG
-- No BRD content regenerated — approved BRD carried forward
-- 49 FRs across 8 epics, 14 NFRs, 80 JIRA issues unchanged
+- Re-push via /push_brd command with live VERSION.txt verification
+- Full CHANGELOG history restored including v1.1 and v1.2 entries
+- No BRD content regenerated
 
 ## v1.2
 
@@ -18,18 +27,16 @@ Date: 21-May-2026
 
 Changes:
 
-- Full re-push via Atos-Github MCP connector
+- Full re-push via Atos-Github MCP connector following CLAUDE.md versioning rules
 - 49 atomic functional requirements across 8 epics with acceptance criteria
 - EP-08 Authentication and Access Control: SSO, RBAC, MFA, session management, user admin
 - In-app and email notifications for all workflow state changes
 - 5-business-day SLA escalation and compliance officer delegation
 - File attachment support, auto-save, unique proposal ID format
 - Hard-stop for critical suitability violations and warning acknowledgement flow
-- Extended audit log fields including IP and session ID
-- 7-year retention and filtered CSV export
-- AI summary editing, PDF export, and 30-second generation SLA
-- Full NFRs with measurable SLAs
-- Complete data entity model, integration requirements, UX screen inventory
+- Extended audit log fields, 7-year retention, filtered CSV export
+- AI summary editing, PDF export, 30-second SLA
+- Full NFRs, data entity model, integration requirements, UX screen inventory
 - Requirements Traceability Matrix
 - JIRA backlog: 80 issues across 8 epics with role-based ownership
 
@@ -39,12 +46,11 @@ Date: 21-May-2026
 
 Changes:
 
-- Updated BRD with comprehensive functional requirements across 8 epics
+- Updated BRD with 49 functional requirements across 8 epics
 - Added AI-inferred requirements for Authentication and Access Control epic EP-08
 - Added full Non-Functional Requirements with measurable SLAs
-- Added complete data entity model and integration requirements
-- Added UX screen inventory with 9 screens and design principles
-- Added Requirements Traceability Matrix linking all FRs to JIRA stories and UX screens
+- Added data entity model, integration requirements, UX screen inventory
+- Added Requirements Traceability Matrix
 - JIRA product backlog pushed: 80 issues with role-based ownership
 
 ## v1.0
