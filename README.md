@@ -2,13 +2,11 @@
 
 ## Latest Version: v1.3
 
-Current document: `BRD/Current/BRD_Portfolio_Rebalancing_v1.3.md`
-
 ## Document Versions
 
 | Version | Location                                                         | Date        |
 | ------- | ---------------------------------------------------------------- | ----------- |
-| v1.3    | BRD/Current/BRD_Portfolio_Rebalancing_v1.3.md                   | 21-May-2026 |
+| v1.3    | BRD/Versions/v1.3/BRD_Portfolio_Rebalancing_v1.3.md             | 21-May-2026 |
 | v1.2    | BRD/Versions/v1.2/BRD_Portfolio_Rebalancing_v1.2.md             | 21-May-2026 |
 | v1.1    | BRD/Versions/v1.1/BRD_Portfolio_Rebalancing_v1.1.md             | 21-May-2026 |
 | v1.0    | BRD/Versions/v1.0/BRD_Portfolio_Rebalancing_v1.0.md             | 20-May-2026 |
@@ -25,8 +23,6 @@ Advisor-Portfolio-Rebalancing/
 ├── CLAUDE.md
 ├── PROMPT.md
 └── BRD/
-    ├── Current/
-    │   └── BRD_Portfolio_Rebalancing_v1.3.md
     └── Versions/
         ├── v1.0/
         │   └── BRD_Portfolio_Rebalancing_v1.0.md
