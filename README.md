@@ -1,16 +1,17 @@
 # Advisor Portfolio Rebalancing
 
-## Latest Version: v1.2
+## Latest Version: v1.3
 
-Current document: `BRD/Current/BRD_Portfolio_Rebalancing_v1.2.md`
+Current document: `BRD/Current/BRD_Portfolio_Rebalancing_v1.3.md`
 
 ## Document Versions
 
-| Version | Location                                                          | Date        |
-| ------- | ----------------------------------------------------------------- | ----------- |
-| v1.2    | BRD/Current/BRD_Portfolio_Rebalancing_v1.2.md                    | 21-May-2026 |
-| v1.1    | BRD/Versions/v1.1/BRD_Portfolio_Rebalancing_v1.1.md              | 21-May-2026 |
-| v1.0    | BRD/Versions/v1.0/BRD_Portfolio_Rebalancing_v1.0.md              | 20-May-2026 |
+| Version | Location                                                         | Date        |
+| ------- | ---------------------------------------------------------------- | ----------- |
+| v1.3    | BRD/Current/BRD_Portfolio_Rebalancing_v1.3.md                   | 21-May-2026 |
+| v1.2    | BRD/Versions/v1.2/BRD_Portfolio_Rebalancing_v1.2.md             | 21-May-2026 |
+| v1.1    | BRD/Versions/v1.1/BRD_Portfolio_Rebalancing_v1.1.md             | 21-May-2026 |
+| v1.0    | BRD/Versions/v1.0/BRD_Portfolio_Rebalancing_v1.0.md             | 20-May-2026 |
 
 See [CHANGELOG.md](CHANGELOG.md) for full details of each version.
 
@@ -20,29 +21,31 @@ See [CHANGELOG.md](CHANGELOG.md) for full details of each version.
 Advisor-Portfolio-Rebalancing/
 ├── README.md
 ├── CHANGELOG.md
-├── VERSION.txt
+├── VERSION.txt          ← 1.3
 ├── CLAUDE.md
 ├── PROMPT.md
 └── BRD/
     ├── Current/
-    │   └── BRD_Portfolio_Rebalancing_v1.2.md
+    │   └── BRD_Portfolio_Rebalancing_v1.3.md
     └── Versions/
         ├── v1.0/
         │   └── BRD_Portfolio_Rebalancing_v1.0.md
         ├── v1.1/
         │   └── BRD_Portfolio_Rebalancing_v1.1.md
-        └── v1.2/
-            └── BRD_Portfolio_Rebalancing_v1.2.md
+        ├── v1.2/
+        │   └── BRD_Portfolio_Rebalancing_v1.2.md
+        └── v1.3/
+            └── BRD_Portfolio_Rebalancing_v1.3.md
 ```
 
 ## About
 
-Business Requirements Document for the Advisor Portfolio Rebalancing & Suitability Review Platform — a web-based tool to digitise and standardise the portfolio rebalancing workflow for financial advisors.
+Business Requirements Document for the Advisor Portfolio Rebalancing & Suitability Review Platform.
 
-### Key Stats
-
-- 49 functional requirements across 8 epics
-- 14 non-functional requirements with measurable SLAs
-- 80 JIRA issues with role-based ownership
-- 9 UX screens specified
-- Full Requirements Traceability Matrix
+| Stat | Value |
+|---|---|
+| Functional Requirements | 49 across 8 epics |
+| Non-Functional Requirements | 14 with measurable SLAs |
+| JIRA Issues | 80 with role-based ownership |
+| UX Screens | 9 specified |
+| Data Entities | 8 defined |
