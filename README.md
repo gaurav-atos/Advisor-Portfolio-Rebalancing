@@ -5,7 +5,7 @@
 | Artifact         | Version | Location |
 |------------------|---------|----------|
 | BRD              | -       | No versions published yet |
-| Product Backlog  | -       | No versions published yet |
+| Product Backlog  | v1.0    | 03_Requirements/Product_Backlog/Product_Backlog_APR_v1.0.md |
 
 See [CHANGELOG.md](CHANGELOG.md) for full details of each version.
 
@@ -39,4 +39,4 @@ Advisor-Portfolio-Rebalancing/
 
 ## About
 
-Business Requirements Document and Product Backlog for the Advisor Portfolio Rebalancing and Suitability Review Platform.
+Business Requirements Document for the Advisor Portfolio Rebalancing and Suitability Review Platform — 49 FRs, 8 epics, 14 NFRs, 80 JIRA issues.
