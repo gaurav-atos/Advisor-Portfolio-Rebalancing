@@ -1,11 +1,17 @@
-﻿# Advisor Portfolio Rebalancing
+# Advisor Portfolio Rebalancing
 
-## Latest Versions
+## Latest Version: v1.3
 
-| Artifact         | Version | Location |
-|------------------|---------|----------|
-| BRD              | -       | No versions published yet |
-| Product Backlog  | -       | No versions published yet |
+Current document: `BRD/Current/BRD_Portfolio_Rebalancing_v1.3.md`
+
+## Document Versions
+
+| Version | Location | Date |
+| ------- | -------------------------------------------------------- | ----------- |
+| v1.3 | BRD/Current/BRD_Portfolio_Rebalancing_v1.3.md | 25-May-2026 |
+| v1.2 | BRD/Versions/v1.2/BRD_Portfolio_Rebalancing_v1.2.md | 25-May-2026 |
+| v1.1 | BRD/Versions/v1.1/BRD_Portfolio_Rebalancing_v1.1.md | 21-May-2026 |
+| v1.0 | BRD/Versions/v1.0/BRD_Portfolio_Rebalancing_v1.0.md | 20-May-2026 |
 
 See [CHANGELOG.md](CHANGELOG.md) for full details of each version.
 
@@ -15,29 +21,23 @@ See [CHANGELOG.md](CHANGELOG.md) for full details of each version.
 Advisor-Portfolio-Rebalancing/
 ├── README.md
 ├── CHANGELOG.md
-├── Artifacts/
-├── 01_Project_Charter/
-├── 02_Product_Management/
-├── 03_Requirements/
-│   ├── BRD/
-│   │   ├── VERSION.txt
-│   │   └── Versions/
-│   └── Product_Backlog/
-│       ├── VERSION.txt
-│       └── Versions/
-├── 04_UX_UI/
-├── 05_Architecture/
-├── 06_Engineering/
-├── 07_Testing_QA/
-├── 08_Release_Management/
-├── 09_Project_Governance/
-├── 10_Operations_Support/
-├── 11_Compliance_Security/
-├── 12_Meeting_Notes/
-├── 13_Reports_Dashboards/
-└── 99_Archive/
+├── VERSION.txt          <- 1.3
+├── CLAUDE.md
+├── PROMPT.md
+├── BRD/
+│   ├── Current/
+│   │   └── BRD_Portfolio_Rebalancing_v1.3.md
+│   └── Versions/
+│       ├── v1.0/ ... v1.2/  (immutable)
+│       └── v1.3/
+│           └── BRD_Portfolio_Rebalancing_v1.3.md
+├── requirements/
+│   └── BRD_Portfolio_Rebalancing_v1.3.md
+└── Artifacts/
+    └── Product_Backlog/
+        └── Product_Backlog_APR_v1.2.md
 ```
 
 ## About
 
-Business Requirements Document and Product Backlog for the Advisor Portfolio Rebalancing and Suitability Review Platform.
+Business Requirements Document for the Advisor Portfolio Rebalancing and Suitability Review Platform — 49 FRs, 8 epics, 14 NFRs, 80 JIRA issues.
