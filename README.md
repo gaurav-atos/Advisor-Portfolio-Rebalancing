@@ -15,14 +15,27 @@ See [CHANGELOG.md](CHANGELOG.md) for full details of each version.
 Advisor-Portfolio-Rebalancing/
 ├── README.md
 ├── CHANGELOG.md
-├── CLAUDE.md
-└── Artifacts/
-    ├── BRD/
-    │   ├── VERSION.txt
-    │   └── Versions/
-    └── Product_Backlog/
-        ├── VERSION.txt
-        └── Versions/
+├── Artifacts/
+├── 01_Project_Charter/
+├── 02_Product_Management/
+├── 03_Requirements/
+│   ├── BRD/
+│   │   ├── VERSION.txt
+│   │   └── Versions/
+│   └── Product_Backlog/
+│       ├── VERSION.txt
+│       └── Versions/
+├── 04_UX_UI/
+├── 05_Architecture/
+├── 06_Engineering/
+├── 07_Testing_QA/
+├── 08_Release_Management/
+├── 09_Project_Governance/
+├── 10_Operations_Support/
+├── 11_Compliance_Security/
+├── 12_Meeting_Notes/
+├── 13_Reports_Dashboards/
+└── 99_Archive/
 ```
 
 ## About
