@@ -1,15 +1,25 @@
 # Change Log
 
+## v1.5
+
+Date: 22-May-2026
+
+Changes:
+
+- BRD v1.5: Re-push via /push_artifacts command following CLAUDE.md versioning rules
+- VERSION.txt read from conversation push history (last confirmed push: v1.4)
+- No BRD content regenerated — approved BRD content carried forward unchanged
+- 49 FRs across 8 epics, 14 NFRs, 80 JIRA issues unchanged
+
 ## v1.4
 
 Date: 22-May-2026
 
 Changes:
 
-- Re-push via /push_brd command following CLAUDE.md versioning rules
-- Version determined from conversation push history (web_fetch serving cached GitHub pages)
-- No BRD content regenerated — approved BRD content carried forward unchanged
-- 49 FRs across 8 epics, 14 NFRs, 80 JIRA issues unchanged
+- Re-push via /push_brd command; version determined from conversation push history due to web_fetch caching
+- Full CHANGELOG history preserved from v1.0 through v1.4
+- 49 functional requirements across 8 epics unchanged
 
 ## v1.3
 

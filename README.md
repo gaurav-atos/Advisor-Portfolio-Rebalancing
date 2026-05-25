@@ -1,18 +1,19 @@
 # Advisor Portfolio Rebalancing
 
-## Latest Version: v1.4
+## Latest Version: v1.5
 
-Current document: `BRD/Current/BRD_Portfolio_Rebalancing_v1.4.md`
+Current document: `BRD/Current/BRD_Portfolio_Rebalancing_v1.5.md`
 
 ## Document Versions
 
-| Version | Location                                                         | Date        |
-| ------- | ---------------------------------------------------------------- | ----------- |
-| v1.4    | BRD/Current/BRD_Portfolio_Rebalancing_v1.4.md                   | 22-May-2026 |
-| v1.3    | BRD/Versions/v1.3/BRD_Portfolio_Rebalancing_v1.3.md             | 21-May-2026 |
-| v1.2    | BRD/Versions/v1.2/BRD_Portfolio_Rebalancing_v1.2.md             | 21-May-2026 |
-| v1.1    | BRD/Versions/v1.1/BRD_Portfolio_Rebalancing_v1.1.md             | 21-May-2026 |
-| v1.0    | BRD/Versions/v1.0/BRD_Portfolio_Rebalancing_v1.0.md             | 20-May-2026 |
+| Version | Location | Date |
+| ------- | -------------------------------------------------------- | ----------- |
+| v1.5 | BRD/Current/BRD_Portfolio_Rebalancing_v1.5.md | 22-May-2026 |
+| v1.4 | BRD/Versions/v1.4/BRD_Portfolio_Rebalancing_v1.4.md | 22-May-2026 |
+| v1.3 | BRD/Versions/v1.3/BRD_Portfolio_Rebalancing_v1.3.md | 21-May-2026 |
+| v1.2 | BRD/Versions/v1.2/BRD_Portfolio_Rebalancing_v1.2.md | 21-May-2026 |
+| v1.1 | BRD/Versions/v1.1/BRD_Portfolio_Rebalancing_v1.1.md | 21-May-2026 |
+| v1.0 | BRD/Versions/v1.0/BRD_Portfolio_Rebalancing_v1.0.md | 20-May-2026 |
 
 See [CHANGELOG.md](CHANGELOG.md) for full details of each version.
 
@@ -22,19 +23,20 @@ See [CHANGELOG.md](CHANGELOG.md) for full details of each version.
 Advisor-Portfolio-Rebalancing/
 ├── README.md
 ├── CHANGELOG.md
-├── VERSION.txt          <- 1.4
+├── VERSION.txt          <- 1.5
 ├── CLAUDE.md
 ├── PROMPT.md
-└── BRD/
-    ├── Current/
-    │   └── BRD_Portfolio_Rebalancing_v1.4.md
-    └── Versions/
-        ├── v1.0/
-        ├── v1.1/
-        ├── v1.2/
-        ├── v1.3/
-        └── v1.4/
-            └── BRD_Portfolio_Rebalancing_v1.4.md
+├── BRD/
+│   ├── Current/
+│   │   └── BRD_Portfolio_Rebalancing_v1.5.md
+│   └── Versions/
+│       ├── v1.0/ ... v1.4/  (immutable)
+│       └── v1.5/
+│           └── BRD_Portfolio_Rebalancing_v1.5.md
+└── Artifacts/
+    └── Product_Backlog/
+        ├── Product_Backlog_APR_v1.4.md
+        └── Product_Backlog_APR_v1.5.md
 ```
 
 ## About
