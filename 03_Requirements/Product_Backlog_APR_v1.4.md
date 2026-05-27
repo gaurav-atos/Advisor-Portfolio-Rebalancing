@@ -5,7 +5,7 @@
 |---|---|
 | **Project** | Advisor Portfolio Rebalancing & Suitability Review Platform |
 | **JIRA Project** | APR — advisor-portfolio-rebalancing.atlassian.net |
-| **Version** | 1.3 |
+| **Version** | 1.4 |
 | **Date** | 25 May 2026 |
 | **BRD Reference** | BRD v1.3 |
 | **Total Issues** | 80 (8 Epics · 46 User Stories · 26 Tasks) |
@@ -87,7 +87,7 @@
 | US-011 | Story | Initiate a new rebalancing proposal | As a Financial Advisor, I want to start a proposal from the dashboard or portfolio detail view. | Draft with unique PROP-YYYYMMDD-NNNN ID; accessible from both locations. | 3 | Critical | Gaurav | Source Docs | APR-30 |
 | US-012 | Story | Adjust allocations with real-time 100% validation | As a Financial Advisor, I want real-time sum validation so I can't submit an invalid proposal. | Inputs and sliders synchronised; submit disabled when total ≠ 100%; inline error shown. | 5 | Critical | Gaurav | Source Docs | APR-31 |
 | US-013 | Story | Pre/post allocation comparison panel | As a Financial Advisor, I want a side-by-side comparison of current vs proposed allocation. | Panel updates within 500ms; shows current %, proposed %, delta, value change. | 3 | High | Gaurav | Source Docs | APR-32 |
-| US-014 ★ | Story | Proposal auto-save with last-saved timestamp | As a Financial Advisor, I want auto-save every 2 minutes so I never lose work. | Auto-save without user action; 'Last saved HH:MM:SS' visible; no data lost on tab close. | 3 | High | Gaurav | AI-Added | APR-33 |
+| US-014 ★ | Story | Proposal auto-save with last-saved timestamp | As a Financial Advisor, I want auto-save every 2 minutes so I never lose work. | Auto-save without user action; last saved timestamp visible; no data lost on tab close. | 3 | High | Gaurav | AI-Added | APR-33 |
 | US-015 | Story | Immutable proposal version history | As a Financial Advisor, I want every save to create an immutable version snapshot. | Version increments on each save; prior versions accessible read-only; no version modifiable. | 5 | Critical | Gaurav | Source Docs | APR-34 |
 | US-016 | Story | Add free-text notes to proposal | As a Financial Advisor, I want to add notes to provide context for the compliance reviewer. | Notes up to 2,000 chars; live character count; saved with each version. | 2 | High | Gaurav | Source Docs | APR-35 |
 | US-017 ★ | Story | Attach supporting PDF documents | As a Financial Advisor, I want to attach up to 5 PDFs max 10 MB each. | PDF type enforced; 10 MB limit; max 5 files; listed with name and size. | 3 | Medium | Gaurav | AI-Added | APR-36 |
